@@ -36,3 +36,12 @@
     transform: rotate(360deg);
   }
 }
+
+/* 8. Style the app (App.css) */
+/* Add your CSS styles here */
+.note-list {
+  list-style: none;
+}
+.note-item {
+  margin: 10px 0;
+}
